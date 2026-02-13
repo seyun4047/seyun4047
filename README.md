@@ -1,4 +1,4 @@
-<img width="7679" height="6278" alt="AWS Upload Presigned URL-2026-02-13-154944" src="https://github.com/user-attachments/assets/f915a7d3-217f-4139-93eb-38fded8ac3e3" />
+<img width="7679" height="6278" alt="AWS Upload Presigned URL-2026-02-13-154944" src="https://github.com/user-attachments/assets/88aa6f42-e753-40ef-a320-8601ba8b37d5" />
 
 ---
 
