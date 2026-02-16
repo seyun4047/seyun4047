@@ -19,6 +19,7 @@
 # Flagship project
 
 ## MAIN-DRONE
+- **Manufacturer-Independent Drone Monitoring Platform**
 ### Introduction
 - Click & Watch the Introduction Video
 [![MAIN-DRONE](https://img.youtube.com/vi/WLHgFOG12es/maxresdefault.jpg)](https://www.youtube.com/watch?v=WLHgFOG12es)
