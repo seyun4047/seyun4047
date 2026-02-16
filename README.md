@@ -15,3 +15,9 @@
 <p align="center">
 
 ---
+
+# Flagship project
+
+## MAIN-DRONE
+
+[![MAIN-DRONE](https://img.youtube.com/vi/Q8aceJ5Q0mc/maxresdefault.jpg)](https://youtu.be/Q8aceJ5Q0mc)
