@@ -22,7 +22,7 @@
 - **Manufacturer-Independent Drone Monitoring Platform**
 ### Introduction
 - Click & Watch the Introduction Video
-[![MAIN-DRONE](https://img.youtube.com/vi/HrHgE36iNfb5O6Mz/maxresdefault.jpg)](https://youtu.be/7IdtRp_fe1U?si=HrHgE36iNfb5O6Mz)
+[![MAIN-DRONE](https://img.youtube.com/vi/7IdtRp_fe1U/maxresdefault.jpg)](https://youtu.be/7IdtRp_fe1U)
 
 ### Structure
 - This platform consists of multiple independent repositories:
