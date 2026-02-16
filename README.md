@@ -19,5 +19,20 @@
 # Flagship project
 
 ## MAIN-DRONE
- VIDEO👇🏻👇🏻👇🏻
-[![MAIN-DRONE](https://img.youtube.com/vi/Q8aceJ5Q0mc/maxresdefault.jpg)](https://youtu.be/Q8aceJ5Q0mc)
+### Introduction
+- Click & Watch the Introduction Video
+[![MAIN-DRONE](https://img.youtube.com/vi/WLHgFOG12es/maxresdefault.jpg)](https://www.youtube.com/watch?v=WLHgFOG12es)
+
+### Structure
+- This platform consists of multiple independent repositories:
+
+| Component | Description | Repository |
+|---------|---------------------------------------------------|-------------------------------------------------------------------------|
+| Server | Core drone platform server (API, Auth, Telemetry) | [GitHub](https://github.com/seyun4047/drone-platform-server) |
+| Monitoring Server | Real-time Drone health check monitoring service | [GitHub](https://github.com/seyun4047/drone-platform-monitoring-server) |
+| Drone Data Tester | Test client for drone telemetry & data simulation | [GitHub](https://github.com/seyun4047/drone-platform-trans-tester) |
+| Drone Client | Drone Data Collection, Transmission & Analysis | [GitHub](https://github.com/seyun4047/drone-platform-client) |
+| Dashboard | Drone platform's front-end | [GitHub](https://github.com/seyun4047/drone-platform-dashboard) |
+| Docs | Platform Documents, API's | [GitHub](https://github.com/seyun4047/drone-platform-docs)|
+
+---
