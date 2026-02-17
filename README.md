@@ -6,14 +6,28 @@
 
 <img width="200" src="https://github.com/user-attachments/assets/507ebbd7-5a31-4eff-9d8c-2a34ff6395a6"/>
 <br>
+<br>
 <img width="600" src="https://github.com/user-attachments/assets/7bc575a8-27f7-4e64-b04e-1e33d4a7848e"/>
 
----
 
 ### Introduction
 
 Watch the Introduction Video!!!
 <br>▶️[MAIN-DRONE Introduction(KOR, ENG SUB)](https://youtu.be/7IdtRp_fe1U)
+
+---
+
+### Structure
+This platform consists of multiple independent repositories
+
+| Component | Description | Repository |
+|---------|---------------------------------------------------|-------------------------------------------------------------------------|
+| Server | Core drone platform server (API, Auth, Telemetry) | [GitHub](https://github.com/seyun4047/drone-platform-server) |
+| Monitoring Server | Real-time Drone health check monitoring service | [GitHub](https://github.com/seyun4047/drone-platform-monitoring-server) |
+| Drone Data Tester | Test client for drone telemetry & data simulation | [GitHub](https://github.com/seyun4047/drone-platform-trans-tester) |
+| Drone Client | Drone Data Collection, Transmission & Analysis | [GitHub](https://github.com/seyun4047/drone-platform-client) |
+| Dashboard | Drone platform's front-end | [GitHub](https://github.com/seyun4047/drone-platform-dashboard) |
+| Docs | Platform Documents, API's | [GitHub](https://github.com/seyun4047/drone-platform-docs)|
 
 ---
 
@@ -43,17 +57,5 @@ Watch the Introduction Video!!!
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
-### Structure
-This platform consists of multiple independent repositories
 
-| Component | Description | Repository |
-|---------|---------------------------------------------------|-------------------------------------------------------------------------|
-| Server | Core drone platform server (API, Auth, Telemetry) | [GitHub](https://github.com/seyun4047/drone-platform-server) |
-| Monitoring Server | Real-time Drone health check monitoring service | [GitHub](https://github.com/seyun4047/drone-platform-monitoring-server) |
-| Drone Data Tester | Test client for drone telemetry & data simulation | [GitHub](https://github.com/seyun4047/drone-platform-trans-tester) |
-| Drone Client | Drone Data Collection, Transmission & Analysis | [GitHub](https://github.com/seyun4047/drone-platform-client) |
-| Dashboard | Drone platform's front-end | [GitHub](https://github.com/seyun4047/drone-platform-dashboard) |
-| Docs | Platform Documents, API's | [GitHub](https://github.com/seyun4047/drone-platform-docs)|
-
----
 </div>
