@@ -12,21 +12,24 @@
 
 ---
 
-![flagship_project](https://img.shields.io/badge/flagship_project-333333?style=for-the-badge&logoColor=black)
+<img src="https://img.shields.io/badge/flagship_project-333333?style=for-the-badge&logoColor=black"/>
 <br>
-<img width="600" src="https://github.com/user-attachments/assets/7bc575a8-27f7-4e64-b04e-1e33d4a7848e" alt="MAIN_DRONE_LOGO"/>
+<p align="center">
+  <a href="https://youtu.be/7IdtRp_fe1U" target="_blank">
+    <img width="600"
+         src="https://github.com/user-attachments/assets/7bc575a8-27f7-4e64-b04e-1e33d4a7848e"
+         alt="MAIN_DRONE_LOGO"/>
+  </a>
+</p>
+
+**Click Image & Watch the Introduction Video!!!**
 
 <br>
 <br>
-
-## Introduction
-**Watch the Introduction Video!!!**
-<br>🎬[MAIN-DRONE Introduction(KOR, ENG SUB)](https://youtu.be/7IdtRp_fe1U)
-
-<br>
 <br>
 
-## Project Structure
+![main_drone-structure](https://img.shields.io/badge/main_drone-📚structure📚-333333?style=for-the-badge&logoColor=black)
+<br>
 **This platform consists of multiple independent repositories**
 
 | Component | Description | Repository |
@@ -40,8 +43,10 @@
 
 <br>
 <br>
+<br>
 
-## Tech Stack
+![main_drone-tech_stack](https://img.shields.io/badge/main_drone-💻tech_stack💻-333333?style=for-the-badge&logoColor=black)
+<br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
