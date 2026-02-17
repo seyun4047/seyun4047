@@ -1,13 +1,20 @@
+<div align="center">
 <img width="7679" height="6278" alt="AWS Upload Presigned URL-2026-02-13-154944" src="https://github.com/user-attachments/assets/88aa6f42-e753-40ef-a320-8601ba8b37d5" />
+
+![Primary_Stack](https://img.shields.io/badge/primary_tech_stack>>-02300A?style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-<div align="center">
-
-<img width="200" src="https://github.com/user-attachments/assets/507ebbd7-5a31-4eff-9d8c-2a34ff6395a6"/>
+![flagship_project](https://img.shields.io/badge/flagship_project-333333?style=for-the-badge&logoColor=black)
 <br>
-<br>
-<img width="600" src="https://github.com/user-attachments/assets/7bc575a8-27f7-4e64-b04e-1e33d4a7848e"/>
+<img width="600" src="https://github.com/user-attachments/assets/7bc575a8-27f7-4e64-b04e-1e33d4a7848e" alt="MAIN_DRONE_LOGO"/>
 
 
 ### Introduction
@@ -40,7 +47,6 @@ This platform consists of multiple independent repositories
 <br>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
