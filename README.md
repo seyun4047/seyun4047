@@ -16,15 +16,18 @@
 <br>
 <img width="600" src="https://github.com/user-attachments/assets/7bc575a8-27f7-4e64-b04e-1e33d4a7848e" alt="MAIN_DRONE_LOGO"/>
 
+<br>
+<br>
 
 ## Introduction
+**Watch the Introduction Video!!!**
+<br>🎬[MAIN-DRONE Introduction(KOR, ENG SUB)](https://youtu.be/7IdtRp_fe1U)
 
-Watch the Introduction Video!!!
-<br>▶️[MAIN-DRONE Introduction(KOR, ENG SUB)](https://youtu.be/7IdtRp_fe1U)
+<br>
+<br>
 
-
-## Structure
-This platform consists of multiple independent repositories
+## Project Structure
+**This platform consists of multiple independent repositories**
 
 | Component | Description | Repository |
 |---------|---------------------------------------------------|-------------------------------------------------------------------------|
@@ -35,6 +38,8 @@ This platform consists of multiple independent repositories
 | Dashboard | Drone platform's front-end | [GitHub](https://github.com/seyun4047/drone-platform-dashboard) |
 | Docs | Platform Documents, API's | [GitHub](https://github.com/seyun4047/drone-platform-docs)|
 
+<br>
+<br>
 
 ## Tech Stack
 
