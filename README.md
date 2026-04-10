@@ -76,12 +76,12 @@
 
 
 <p align="center">
-  <a href="https://yt.mutzin.com" target="_blank">
-    <img width="600" alt="mutzinYT_logo" src="https://github.com/user-attachments/assets/91f25dec-7af2-4f1b-81aa-4b87f46b9312" />
-  </a>
+ <!-- <a href="https://yt.mutzin.com" target="_blank"> -->
+     <img width="600" alt="mutzinYT_logo" src="https://github.com/user-attachments/assets/91f25dec-7af2-4f1b-81aa-4b87f46b9312" />
+  <!--</a>-->
 </p>
 
-**Click Image & TRY IT!!!**
+<!-- **Click Image & TRY IT!!!** -->
 
 <br>
 
