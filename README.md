@@ -80,9 +80,20 @@
 | <img src="https://github.com/user-attachments/assets/478fa7ab-046a-4ac4-ba0b-5cf266acc2fb" width="200"> | <img src="https://github.com/user-attachments/assets/4cc48f49-0156-4fac-89b0-fd83154b53a7" width="200"> | <img src="https://github.com/user-attachments/assets/56fdf239-603f-4d50-9684-ecaf16dc52ae" width="200"> |
 |---|---|---|
 
-**Mutzin LangCall** is an AI-powered language learning assistant that helps users improve real-world conversational skills by simulating phone calls with AI teachers. Rather than relying on simple memorization or repetitive practice, it provides an immersive learning experience through real-time, voice-based interactions that feel like speaking with a native speaker.
-The service offers highly personalized conversations, allowing users to customize speaking style, speed, tone, accent, region, and even formality levels to match their preferences and learning goals. This level of customization creates a uniquely tailored learning environment that sets it apart from other language learning solutions.
+**Mutzin LangCall** is an AI-powered language learning assistant<br>
+that helps users improve real-world conversational skills by simulating phone calls with AI teachers.<br>
+Rather than relying on simple memorization or repetitive practice,<br>
+it provides an immersive learning experience through real-time, voice-based interactions<br>
+that feel like speaking with a native speaker.
+<br><br>
+The service offers highly personalized conversations, allowing users to customize speaking
+<br>
+style, speed, tone, accent, region, and even formality levels to match their preferences and learning goals.
+<br>
+This level of customization creates a uniquely tailored learning environment<br>
+that sets it apart from other language learning solutions.<br>
 Mutzin LangCall is currently live and operating on the Toss platform (App in Toss).
+
 ---
 <img src="https://img.shields.io/badge/flagship_project3-333333?style=for-the-badge&logoColor=black"/>
 
