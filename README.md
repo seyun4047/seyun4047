@@ -1,5 +1,5 @@
 <div align="center">
-<img width="7679" height="6278" alt="AWS Upload Presigned URL-2026-02-13-154944" src="https://github.com/user-attachments/assets/88aa6f42-e753-40ef-a320-8601ba8b37d5" />
+<img width="7679" alt="AWS Upload Presigned URL-2026-02-13-154944" src="https://github.com/user-attachments/assets/88aa6f42-e753-40ef-a320-8601ba8b37d5" />
 
 ![Primary_Stack](https://img.shields.io/badge/primary_tech_stack-02300A?style=for-the-badge&logoColor=white)
 <br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
